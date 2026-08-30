@@ -1,13 +1,13 @@
 # DASHBOARD EM HTML, CSS E JS PARA ESP8266/ESP32
 
 <p align="center">
-    <img src="readme/status.svg"/>
+    <img src=""/>
 </p>
 
 <hr>
 
 # ATENÇÃO
-<p> "Fica expressamente proibido, em qualquer circunstância, o uso comercial deste projeto sem a devida autorização por escrito da minha parte. Qualquer utilização para fins lucrativos sem a minha prévia autorização constitui violação dos direitos autorais e pode sujeitar o infrator às penalidades legais previstas em lei."<p/>
+<p> "RA 23223266 ALAN PAZ - UNIVESP PROJETO INTEGRADOR VI Fica expressamente proibido, em qualquer circunstância, o uso comercial deste projeto sem a devida autorização por escrito da minha parte. Qualquer utilização para fins lucrativos sem a minha prévia autorização constitui violação dos direitos autorais e pode sujeitar o infrator às penalidades legais previstas em lei."<p/>
 
 - Esse projeto pode ser usado exclusivamente para fins educacionais.
 
@@ -23,8 +23,8 @@
 ## Descrição e objetivos
 ### Descrição
 
-- Este projeto está sendo desenvolvido como parte de um projeto de **TCC**
- **UFERSA** - Universidade Federal Rural do Semi-Arido
+- Este projeto está sendo desenvolvido como parte de um PROJETO INTEGRADOR VI 
+ UNIVESP  - UNIVESP USP - ENGENHARIA COMPUTAÇÃO
 
 - Neste repositório, estará o código da página web da parte do "dashboard". Por questões de segurança, o código completo com todas as funcionalidades está em um repositório privado. Caso tenha alguma dúvida, pode entrar em contato.
 
