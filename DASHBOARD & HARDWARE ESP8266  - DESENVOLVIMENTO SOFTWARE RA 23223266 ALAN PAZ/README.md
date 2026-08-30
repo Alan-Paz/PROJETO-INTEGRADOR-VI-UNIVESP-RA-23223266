@@ -1,7 +1,7 @@
 # DASHBOARD EM HTML, CSS E JS PARA ESP8266/ESP32
 
 <p align="center">
-    <img src=""/>
+    <img src="img/logoprojetointegrador.jpg"/>
 </p>
 
 <hr>
